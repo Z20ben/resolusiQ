@@ -4,4 +4,7 @@ Rencana fitur website:
 -Pembayaran
 -Php Framework Laravel
 -javascript
+ *ES6
+ *Framework JS
 -frontend
+
