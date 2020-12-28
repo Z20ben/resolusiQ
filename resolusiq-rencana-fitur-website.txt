@@ -1,0 +1,10 @@
+Rencana fitur website:
+-Login & Dashboard
+-Keranjang Belanja
+-Pembayaran
+-Php Framework Laravel
+-javascript
+ *ES6
+ *Framework JS
+-frontend
+
