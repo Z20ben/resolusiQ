@@ -8,6 +8,7 @@ Rencana fitur website:
  *Framework JS
  *node.js
  *vue
+ *react
 -frontend
 -Phyton
 
