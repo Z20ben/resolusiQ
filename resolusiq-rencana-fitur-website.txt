@@ -2,10 +2,12 @@ Rencana fitur website:
 -Login & Dashboard
 -Keranjang Belanja
 -Pembayaran
--Php Framework Laravel
+-Php Framework Laravel & CI
 -javascript
  *ES6
  *Framework JS
  *node.js
--frontend
+  ^ Angular
+  ^ React
+
 
